@@ -1,2 +1,3 @@
 second file
 made some mods
+making change after adding to .gitignore
