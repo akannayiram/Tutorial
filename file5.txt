@@ -1,0 +1,4 @@
+going to check if this file will be excluded when I try to list files from local repo only
+1) keep this file only in WD. Do a git ls-tree ..... See if this file5.txt shows up
+2) Add this file to stage. Repeat. See if this file shows up
+In both cases, I want a command that does not include this file.
